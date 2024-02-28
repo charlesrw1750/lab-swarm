@@ -30,3 +30,4 @@ Vagrant.configure("2") do |config|
         config.vbguest.installer_options = { allow_kernel_upgrade:true }
     end
 end
+end
